@@ -99,6 +99,11 @@ p {
     background-color:peru;
 }
 
+.biosummary p {
+    font-size: 11px;
+    color:black;
+}
+
 .biosum {
     margin-bottom: 32px;
     color: #ffffff;

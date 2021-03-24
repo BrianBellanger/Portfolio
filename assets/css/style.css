@@ -96,7 +96,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:peru
+    background-color:peru;
 }
 
 .biosum {
@@ -125,6 +125,10 @@ p {
 
 .contact p {
     font-size:10px;
+}
+
+.projects p {
+    font-size:11px;
 }
 
 .resume {

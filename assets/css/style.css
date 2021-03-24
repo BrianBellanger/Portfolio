@@ -25,7 +25,7 @@ footer h2 {
     font-size: 20px;
 }
 header {
-    padding: 20px;
+    padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:peru;
     color: #ffffff;
@@ -33,12 +33,10 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 40px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
+
 
 header div {
     padding-top: 15px;
@@ -59,18 +57,16 @@ header div ul li {
 
 a {
     color: #ffffff;
-    text-decoration: none;
 }
 
 p {
     font-size: 16px;
 }
 
-/* Hero Page */
+
 .hero {
-    height: 300px;
+    height: 420px;
     width: 50%;
-    margin-bottom: 25px;
     background-image: url("../images/bbellangerPic.jpg");
     background-size: cover;
     background-position: center;
@@ -108,30 +104,33 @@ p {
     color: #ffffff;
 }
 
+.biosum p {
+    font-size:10px;
+    color: #ffffff;
+}
+
 .biosum h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.biosum img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 .contact {
     margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    padding: 25px;
+    height: 200px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:peru;
     color: #ffffff;
 }
 
+.contact p {
+    font-size:10px;
+}
+
 .resume {
     margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    padding: 25px;
+    height: 200px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:peru;
     color: #ffffff;
@@ -139,19 +138,19 @@ p {
 
 .projects {
     margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    padding: 25px;
+    height: 200px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:peru;
     color: #ffffff;
 }
 
 .contact img {
-    max-height: 200px;}
+    max-height: 150px;}
 
 .resume img {
-    max-height: 200px;}
+    max-height: 150px;}
 
 .projects img {
-    max-height: 200px;
+    max-height: 150px;
 }

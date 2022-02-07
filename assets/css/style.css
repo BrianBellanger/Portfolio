@@ -119,6 +119,24 @@ p {
     text-align: center;
 }
 
+
+
+.contact p {
+    font-size:10px;
+}
+
+.resume p {
+    font-size:10px;
+}
+
+.projects p {
+    font-size:10px;
+}
+
+.skills p {
+    font-size:10px;
+}
+
 .contact {
     margin-bottom: 20px;
     padding: 25px;
@@ -126,14 +144,6 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:peru;
     color: #ffffff;
-}
-
-.contact p {
-    font-size:10px;
-}
-
-.projects p {
-    font-size:11px;
 }
 
 .resume {
@@ -154,12 +164,27 @@ p {
     color: #ffffff;
 }
 
+.skills {
+    margin-bottom: 20px;
+    padding: 25px;
+    height: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:peru;
+    color: #ffffff;
+}
+
 .contact img {
-    max-height: 150px;}
+    max-height: 150px;
+}
 
 .resume img {
-    max-height: 150px;}
+    max-height: 150px;
+}
 
 .projects img {
+    max-height: 150px;
+}
+
+.skills img {
     max-height: 150px;
 }

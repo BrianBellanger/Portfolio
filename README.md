@@ -1,15 +1,15 @@
 # Port
 
-rimary Portfolio for Brian Bellanger
+Primary Portfolio for Brian Bellanger
 
 Portfolio to showcase projects and bio for Brian Bellanger
 
 URL:  
-https://brianbellanger.github.io/HW2-Portfolio/
+https://brianbellanger.github.io/Portfolio/
 
 Github Repository:
 
-https://github.com/BrianBellanger/HW2-Portfolio.git
+https://github.com/BrianBellanger/Portfolio.git
 
 # Portfolio
 
@@ -36,7 +36,7 @@ Portfolio page for Brian Bellanger
 ## Installation
 ============
 
-Visit https://brianbellanger.github.io/HW2-Portfolio/
+Visit https://brianbellanger.github.io/Portfolio/
 
 ## Usage
 =====
@@ -61,6 +61,6 @@ None
 ## Questions
 =========
 
-Email:    [brianjbellanger@gmail.com](mailto:brianjbellanger@gmail.com) with additional questions or comments
+Email:    [email@brianbellanger.com](mailto:email@brianbellanger.com) with additional questions or comments
 
 GitHub:   [github.com/BrianBellanger](https://github.com/BrianBellanger)
